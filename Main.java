@@ -7,7 +7,7 @@ Subtraction s= new Subtraction();
 
    int a=10 ,b=5;
 
-   int sum=a.add(a,b);
+   int sum=a.addition(a,b);
    int diff=s.subtract(a,b);
 
    
