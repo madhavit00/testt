@@ -10,7 +10,8 @@ Subtraction s= new Subtraction();
    int sum=a.addition(a,b);
    int diff=s.subtract(a,b);
 
-   
+        System.out.println("Addition result: " + sum);
+        System.out.println("Subtraction result: " + diff);
    
  }
   
